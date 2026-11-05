@@ -16,7 +16,6 @@ I'm working on a **medical coding AI startup**, where I coordinate a team of AI 
 
 - 🔭 **Interests:** world models · AI safety and alignment · AI agents
 - 🛠️ **Currently:** researching world models and building AI projects
-- 🌱 **Practising:** core ML algorithms implemented from scratch (TensorTonic)
 
 ---
 
@@ -28,7 +27,6 @@ I'm working on a **medical coding AI startup**, where I coordinate a team of AI 
 | [**Academic Assistant**](https://github.com/tbaolong45/academic-assistant) | Productivity · macOS | A native macOS app that turns Moodle, Outlook and school mail into one deadline board |
 | [**cloudflare-for-human**](https://github.com/tbaolong45/cloudflare-for-human) | Research · Content authenticity | Research on verifying human-origin content and detecting AI-generated or manipulated audio, images and text |
 | [**Eyes on Heritage**](https://github.com/tbaolong45/eyes-on-heritage) | Remote sensing · Change detection | Classifies change between satellite images taken at different times (construction, destruction, soil sealing, no change). Joint work with [Dang Truong Minh Le](https://github.com/dangaura-tech) |
-| [**TensorTonic Solutions**](https://github.com/tbaolong45/TensorTonic-Solutions) | ML fundamentals | Core machine learning algorithms implemented from scratch |
 
 ---
 
@@ -43,7 +41,7 @@ I'm working on a **medical coding AI startup**, where I coordinate a team of AI 
 
 **Languages**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=swift,python,ts,js,bash&theme=dark" alt="Swift, Python, TypeScript, JavaScript, Bash" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=swift,py,cpp,c,js,html,css&theme=dark" alt="Swift, Python, C++, C, JavaScript, HTML, CSS" /></a> <img src="https://raw.githubusercontent.com/tbaolong45/tbaolong45/main/assets/sql.svg" alt="SQL" height="48" />
 
 **Web & tools**
 
