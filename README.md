@@ -47,3 +47,12 @@ I'm working on a **medical coding AI startup**, where I coordinate a team of AI 
 **Web & tools**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vite,docker,vercel,git,github&theme=dark" alt="React, Next.js, Vite, Docker, Vercel, Git, GitHub" /></a>
+
+---
+
+### 📈 Daily contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tbaolong45/tbaolong45/chart/contributions-dark.svg" />
+  <img alt="Bar chart of my GitHub contributions per day over the last 30 days" src="https://raw.githubusercontent.com/tbaolong45/tbaolong45/chart/contributions.svg" />
+</picture>
