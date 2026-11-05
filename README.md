@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Long+%F0%9F%91%8B;I+build+AI+agents+and+the+apps+around+them;On-device+voice+%E2%80%A2+Agent+tooling+%E2%80%A2+Medical+coding+AI" alt="Hi there, I'm Long" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Long+%F0%9F%91%8B;I+build+AI+agents+and+the+apps+around+them;Voice+%E2%80%A2+Agents+%E2%80%A2+Medical+coding+AI" alt="Hi there, I'm Long" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-tbaolong45-181717?style=flat-square&logo=github)](https://github.com/tbaolong45)
 ![Profile views](https://komarev.com/ghpvc/?username=tbaolong45&style=flat-square&color=6C63FF&label=Profile+views)
@@ -33,7 +33,7 @@ I'm working on a **medical coding AI startup**, where I coordinate a team of AI 
 
 ### 🧰 Tech stack
 
-**AI · ML**
+**Frameworks**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
