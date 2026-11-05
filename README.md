@@ -15,7 +15,7 @@ I'm Long. I build **AI agents** and the **small native apps** that put them to w
 I'm working on a **medical coding AI startup**, where I coordinate a team of AI agents.
 
 - 🔭 **Interests:** world models · AI safety and alignment · AI agents
-- 🛠️ **Currently building:** a desktop voice companion for a local AI agent (Robo) and a deadline board for university life (Academic Assistant)
+- 🛠️ **Currently:** researching world models and building AI projects
 - 🌱 **Practising:** core ML algorithms implemented from scratch (TensorTonic)
 
 ---
