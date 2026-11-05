@@ -27,7 +27,6 @@ I'm working on a **medical coding AI startup**, where I coordinate a team of AI 
 | [**Robo**](https://github.com/tbaolong45/robo) | Voice · Agents · macOS | A robot face on your macOS desktop that is the voice front end for a local AI agent, with speech recognition running on the device |
 | [**Academic Assistant**](https://github.com/tbaolong45/academic-assistant) | Productivity · macOS | A native macOS app that turns Moodle, Outlook and school mail into one deadline board |
 | [**cloudflare-for-human**](https://github.com/tbaolong45/cloudflare-for-human) | Research · Content authenticity | Research on verifying human-origin content and detecting AI-generated or manipulated audio, images and text |
-| [**TensorTonic Solutions**](https://github.com/tbaolong45/TensorTonic-Solutions) | ML fundamentals | Core machine learning algorithms implemented from scratch |
 
 ---
 
