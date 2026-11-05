@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=I+build+AI+agents+and+the+apps+around+them;Voice+%E2%80%A2+Agents+%E2%80%A2+Medical+coding+AI" alt="I build AI agents and the apps around them" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=I+build+AI+agents+and+the+apps+around+them;World+models+%E2%80%A2+Safety+alignment+%E2%80%A2+Agents" alt="I build AI agents and the apps around them" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-tbaolong45-181717?style=flat-square&logo=github)](https://github.com/tbaolong45)
 ![Profile views](https://komarev.com/ghpvc/?username=tbaolong45&style=flat-square&color=6C63FF&label=Profile+views)
@@ -14,7 +14,7 @@
 I'm Long. I build **AI agents** and the **small native apps** that put them to work. Right now
 I'm working on a **medical coding AI startup**, where I coordinate a team of AI agents.
 
-- 🔭 **Interests:** AI agents · on-device speech recognition · native macOS apps · telling human-made content from AI-generated content
+- 🔭 **Interests:** world models · AI safety and alignment · AI agents
 - 🛠️ **Currently building:** a desktop voice companion for a local AI agent (Robo) and a deadline board for university life (Academic Assistant)
 - 🌱 **Practising:** core ML algorithms implemented from scratch (TensorTonic)
 
